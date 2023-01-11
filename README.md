@@ -7,20 +7,20 @@ El flow 1 representa el primer ejercicio a realizar con NodeRed. Este ejercicio 
 
 ## Material Necesario
 
-Para realizar este flujo necesitas lo siguiente:
-1.Ubuntu 20.04
-2.NodoJS
+Para realizar este flow necesitas lo siguiente
 
-MNP
-NodeRed
-Nodos Dashboard
+- [Ubuntu 20.04](https://releases.ubuntu.com/20.04/)
+- [NodeJS](https://nodejs.org/es/)
+    - [NPM](https://www.npmjs.com/)
+    - [NodeRed](https://nodered.org/docs/getting-started/local)
 
 ## Material de referencia
 
 En los siguientes enlaces puedes encontrar cursos en la plataforma de edu.codigoiot.com que te permitirán realiar las configuraciones necesarias
-[Instalación de Virutal Box y Ubuntu 20.04](https://edu.codigoiot.com/course/view.php?id=812)
-[Instalación de NodeRed](https://edu.codigoiot.com/course/view.php?id=817)
-[Introducción a NodeRed](https://edu.codigoiot.com/course/view.php?id=278)
+
+- [Instalación de Virutal Box y Ubuntu 20.04](https://edu.codigoiot.com/course/view.php?id=812)
+- [Instalación de NodeRed](https://edu.codigoiot.com/course/view.php?id=817)
+- [Introducción a NodeRed](https://edu.codigoiot.com/course/view.php?id=278)
 
 ## Instrucciones 
 
